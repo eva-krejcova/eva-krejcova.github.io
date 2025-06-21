@@ -1,4 +1,4 @@
-# Minimal Theme
+# This website is forked from Minimal Theme
 
 [Demo the Theme](https://orderedlist.com/minimal/)
 
